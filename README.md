@@ -2,12 +2,12 @@
 
 ## Algumas coias sobre mim 💙
 
-- Sou Brasileira, e moro em Paraíso do Tocantins🏠
-- Me chamo Esther de Jesus Dias Souza ✨ 
-- Atualmente estou no Terceiro Ano do Médio Integrado a 
-Informática🖥️ e estou com 16 anos 😊
-- Não tenho experiência em trabalho 🙃 
-- Não falo nenhum idioma 🤍
+- *Sou Brasileira, e moro em Paraíso do Tocantins🏠*
+- *Me chamo Esther de Jesus Dias Souza ✨*
+- *Atualmente estou no Terceiro Ano do Médio Integrado a 
+Informática🖥️ e estou com 16 anos 😊*
+- *Não tenho experiência em trabalho 🙃* 
+- *Não falo nenhum idioma 🤍*
 
 ## Hobbies 
 
@@ -17,17 +17,17 @@ Informática🖥️ e estou com 16 anos 😊
 
 ## Tecnologias com quais tenho conhecimento 👨‍💻
 
-![Programação] 
-[![Sitema]
-[![Algoritimo]
-[![Redes]
-[![Arquitetura]
-[![DesenvolvimentoWeb]
-[![FundamentosBásicos] 
-[![HTML]
-[![Python]
-[![C++]
-[![JavaScript]
+- Programação 
+- Sitema
+- Algoritimo 
+- Redes
+- Arquitetura
+- DesenvolvimentoWeb
+- FundamentosBásicos 
+- HTML
+- Python
+- C++
+- JavaScript
 
 ## Outras máterias que fiz✍🏻
 
