@@ -17,9 +17,17 @@ Informática🖥️ e estou com 16 anos 😊
 
 ## Tecnologias com quais tenho conhecimento 👨‍💻
 
-[Programação] [Sitema] [Algoritimo] [Redes] [Arquitetura] 
-[DesenvolvimentoWeb] [FundamentosBásicos] [HTML] [Python]
-[C++] [JavaScript] 
+[![Programação]] 
+[![Sitema]]
+[![Algoritimo]] 
+[![Redes]]
+[![Arquitetura]]
+[![DesenvolvimentoWeb]]
+[![FundamentosBásicos]] 
+[![HTML]]
+[![Python]]
+[![C++]]
+[![JavaScript]] 
 
 ## Outras máterias que fiz✍🏻
 
